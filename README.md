@@ -1,8 +1,8 @@
 # Machine Learning
 
-
-<img src="https://render.githubusercontent.com/render/math?math=\alpha e^{i \pi} = -1" align="right">
-
+<p align="center">
+<img src="https://render.githubusercontent.com/render/math?math=\LARGE e^{i \pi} = -1">
+</p>
 
 Differential Geometry / Lie Algebra
 
